@@ -81,7 +81,7 @@ strong {
   width: 280px;
   height: 63px;*/
   padding: 28px 0;
-  /* background: url(../img/logo.png) 20px center no-repeat; */
+  /* background: url(.img/logo.png) 20px center no-repeat; */
   font-family: "Lobster", cursive;
   font-size: 40px;
   color: #5d5d5d;
@@ -93,7 +93,7 @@ strong {
   width: 280px;
   height: 63px;*/
   padding: 10px 0;
-  /* background: url(../img/logo.png) 20px center no-repeat; */
+  /* background: url(.img/logo.png) 20px center no-repeat; */
   font-family: "Poppins", cursive;
   font-size: 18px;
   color: #ffffff;
@@ -146,7 +146,7 @@ strong {
 
 .slider {
   margin: 0 auto;
-  background: #f8f8f8 url(../img/pattern.jpg) left top repeat;
+  background: #f8f8f8 url(img/pattern.jpg) left top repeat;
   -moz-box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.05) inset,
     0 -5px 15px 0 rgba(0, 0, 0, 0.05) inset;
   -webkit-box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.05) inset,
@@ -290,7 +290,7 @@ strong {
 }
 
 .portfolio-title {
-  background: url(../img/line.png) left center repeat-x;
+  background: url(img/line.png) left center repeat-x;
 }
 
 .portfolio-title h3 {
@@ -393,7 +393,7 @@ strong {
 }
 
 .testimonials-title {
-  background: url(../img/line.png) left center repeat-x;
+  background: url(img/line.png) left center repeat-x;
 }
 
 .testimonials-title h3 {
@@ -461,7 +461,7 @@ strong {
 footer {
   margin: 0 auto;
   padding-bottom: 10px;
-  background: #f8f8f8 url(../img/pattern.jpg) left top repeat;
+  background: #f8f8f8 url(img/pattern.jpg) left top repeat;
   -moz-box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.05) inset;
   -webkit-box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.05) inset;
   box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.05) inset;
@@ -624,7 +624,7 @@ footer .social a:hover {
 .page-title {
   margin: 0 auto;
   padding: 35px 0;
-  background: #f8f8f8 url(../img/pattern.jpg) left top repeat;
+  background: #f8f8f8 url(img/pattern.jpg) left top repeat;
   -moz-box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.05) inset,
     0 -5px 15px 0 rgba(0, 0, 0, 0.05) inset;
   -webkit-box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.05) inset,
@@ -696,7 +696,7 @@ footer .social a:hover {
 }
 
 .team-title {
-  background: url(../img/line.png) left center repeat-x;
+  background: url(img/line.png) left center repeat-x;
 }
 
 .team-title h3 {
@@ -1288,7 +1288,7 @@ ul.portfolio-img li {
 }
 
 .app-modal-wrapper {
-  background: #f8f8f8 url(../img/pattern.jpg) left top repeat;
+  background: #f8f8f8 url(img/pattern.jpg) left top repeat;
   -moz-box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.05) inset,
     0 -5px 15px 0 rgba(0, 0, 0, 0.05) inset;
   -webkit-box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.05) inset,

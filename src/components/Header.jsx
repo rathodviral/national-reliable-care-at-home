@@ -7,6 +7,7 @@ const Header = () => {
   const history = useHistory();
   const location = useLocation();
   const { title, menu } = useContext(AppContext);
+  console.log(title);
 
   const [isMenuShow, setMenuShow] = useState(false);
   const [isMobileScreen, setMobileScreen] = useState(false);
@@ -50,7 +51,7 @@ const Header = () => {
       //   </a>
       // </h1>
       <div className="logo cursor-pointer" onClick={() => history.push("/")}>
-        <img src="img/logo.png" alt="" />
+        <img src={`${process.env.PUBLIC_URL}/img/logo.png`} alt="" />
       </div>
     );
   };

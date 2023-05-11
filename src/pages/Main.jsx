@@ -11,7 +11,7 @@ const Main = ({ page }) => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-  }, []);
+  }, [section]);
 
   useEffect(() => {
     if (homeData) {
